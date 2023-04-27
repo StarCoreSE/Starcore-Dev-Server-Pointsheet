@@ -38,6 +38,7 @@ namespace ShipPoints
 				16InchTriple@400;
 				15cmTbtsKC36T@100;
 				15cmTbtsKC36@100;
+				AMP_HealGenerator@420;
 
             "));
         }
