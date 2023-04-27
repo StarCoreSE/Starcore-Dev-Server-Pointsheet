@@ -36,6 +36,8 @@ namespace ShipPoints
 				QuadBofor@150;
 				TorpTestBuidl@350;
 				16InchTriple@400;
+				15cmTbtsKC36T@100;
+				15cmTbtsKC36@100;
 
             "));
         }
