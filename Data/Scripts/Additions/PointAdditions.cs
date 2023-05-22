@@ -23,8 +23,6 @@ namespace ShipPoints
 				127mmMk24@225;
 				127mmMk32@250;
 				127mmMk56@350;
-				203mm50MLE1931_NR@225;
-				203mm50MLE1931_R@225;
 				105mmTwin@100;
 				152mmMLE1930NR@145;
 				152mmMLE1930R@145;
@@ -39,6 +37,8 @@ namespace ShipPoints
 				15cmTbtsKC36T@100;
 				15cmTbtsKC36@100;
 				AMP_HealGenerator@420;
+				203mmTwin@225;
+				203mmQuad@400;
 
             "));
         }
