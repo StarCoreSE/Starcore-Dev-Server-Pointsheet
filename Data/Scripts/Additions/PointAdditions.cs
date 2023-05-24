@@ -39,6 +39,7 @@ namespace ShipPoints
 				AMP_HealGenerator@420;
 				203mmTwin@225;
 				203mmQuad@400;
+				TorpBarbette@500;
 
             "));
         }
