@@ -15,8 +15,8 @@ namespace ShipPoints
 				381mmDualR@200;
 				381mmDualNR@200;
 				380mmMLE1935@400;
-				15cmSKC28R@100;
-				15cmSKC28NR@100;
+				15cmSKC28R@125;
+				15cmSKC28NR@125;
 				128mmL45@100;
 				128mmSKC34@115;
 				127mmMk12@200;
@@ -28,7 +28,8 @@ namespace ShipPoints
 				152mmMLE1930R@145;
 				152mmMLE1936HA@200;
 				PomPomMain@100;
-				150mmCasemate@150;
+				150mmCasemate@100;
+				150mmCasemateTwin@125;
 				BoforTwinRemodel@95;
 				BoforSingleRemodel@75;
 				QuadBofor@150;
