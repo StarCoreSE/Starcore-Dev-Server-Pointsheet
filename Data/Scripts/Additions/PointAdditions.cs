@@ -41,6 +41,7 @@ namespace ShipPoints
 				203mmTwin@225;
 				203mmQuad@400;
 				TorpBarbette@500;
+				406alternate@400;
 
             "));
         }
