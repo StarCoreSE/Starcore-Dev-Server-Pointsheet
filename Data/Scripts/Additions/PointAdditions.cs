@@ -39,7 +39,7 @@ namespace ShipPoints
 				15cmTbtsKC36@100;
 				AMP_HealGenerator@420;
 				203mmTwin@225;
-				203mmQuad@400;
+				203mmQuad@500;
 				TorpBarbette@500;
 				406alternate@400;
 
