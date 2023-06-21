@@ -12,13 +12,13 @@ namespace ShipPoints
             MyAPIGateway.Utilities.SendModMessage(2546247, MyAPIGateway.Utilities.SerializeToBinary(@"
 				
 				6InchTriple@200;
-				381mmDualR@200;
-				381mmDualNR@200;
+				381mmDualR@250;
+				381mmDualNR@250;
 				380mmMLE1935@400;
 				15cmSKC28R@125;
 				15cmSKC28NR@125;
-				128mmL45@100;
-				128mmSKC34@115;
+				128mmL45@200;
+				128mmSKC34@250;
 				127mmMk12@200;
 				127mmMk24@225;
 				127mmMk32@250;
@@ -38,7 +38,7 @@ namespace ShipPoints
 				15cmTbtsKC36T@100;
 				15cmTbtsKC36@100;
 				AMP_HealGenerator@420;
-				203mmTwin@225;
+				203mmTwin@200;
 				203mmQuad@500;
 				TorpBarbette@500;
 				406alternate@400;
